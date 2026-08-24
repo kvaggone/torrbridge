@@ -1,7 +1,7 @@
 {
-  "version": "0.1.11",
+  "version": "0.1.12",
   "minimumSystemVersion": "14.0",
-  "url": "https://github.com/kvaggone/torrbridge/releases/download/v0.1.11/TorrBridge-0.1.11.dmg",
-  "notes": "https://github.com/kvaggone/torrbridge/releases/tag/v0.1.11",
-  "sha256": "8323a3c66f9170727bd595c1e36c21b4ff7ac78529dcecfb1e534724aaa3f0a7"
+  "url": "https://github.com/kvaggone/torrbridge/releases/download/v0.1.12/TorrBridge-0.1.12.dmg",
+  "notes": "https://github.com/kvaggone/torrbridge/releases/tag/v0.1.12",
+  "sha256": "29fb3420cc6fa98f2fefbc503f5ad94e9e58ebc40e7f7db7f2a1071686951929"
 }
